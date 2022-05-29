@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/frank/sites/cadem/aws_kubectl_cluster'
+make: Leaving directory '/home/frank/sites/cadem/aws_kubectl_cluster'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
